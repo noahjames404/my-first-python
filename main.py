@@ -13,6 +13,7 @@ manager_employee.promoteEmployee(employee)
 wage1 = manager_employee.compute_wage(20,70)
 wage2 = employee.compute_wage(30,70)
 
+help("modules")
 
 print(wage1)
 print(wage2)
